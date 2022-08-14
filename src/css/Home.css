@@ -1,9 +1,17 @@
-.ret {
+.Homeret {
     text-align: center;
     color:black;
 }
 
-.image {
-    margin-left:20%;
-    margin-right:20%;
+.homeimage {
+    position: relative;
+}
+
+img {
+    border : solid;
+    border-width : 1.5%;
+    border-color : gray;
+    padding : 0.5%;
+    height: 50vw;
+    width: 50vw;
 }

@@ -1,7 +1,17 @@
 import React from "react";
+import Image from "../imgs/Season6-1.png";
+import "../css/SeasonMenu.css";
 
-const Season1 = () => {
-    return <h1>시즌 6 입니다.</h1>;
+const Season6 = () => {
+    return (
+        <div className="ret">
+            <h1>시즌 6</h1>
+            <div className="image">
+                <img src = {Image} alt = "Season 6"/>
+            </div>
+            사진 추가 예정
+        </div>
+    );
 }
 
-export default Season1;
+export default Season6;

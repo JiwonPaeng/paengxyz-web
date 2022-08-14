@@ -7,7 +7,7 @@ const Season1 = () => {
         <div className="ret">
             <h1>시즌 1</h1>
             <div className="image">
-                <img src = {FirstImage} />
+                <img src = {FirstImage} alt = "Season 1"/>
             </div>
             사진 추가 예정
         </div>
