@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/paengxyz-web/static/css/main.2c188b78.css",
+    "main.js": "/paengxyz-web/static/js/main.31295b5f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/paengxyz-web/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Season2-1.png": "/paengxyz-web/static/media/Season2-1.551095bc78766e057de5.png",
+    "static/media/Season4-2.png": "/paengxyz-web/static/media/Season4-2.bcd452f2c2b9c74f682a.png",
+    "static/media/Season1-1.png": "/paengxyz-web/static/media/Season1-1.084372f1fab08fefc5d7.png",
+    "static/media/Season3-1.png": "/paengxyz-web/static/media/Season3-1.3f82223a609c9da13f6f.png",
+    "static/media/Season1-0.png": "/paengxyz-web/static/media/Season1-0.5c2b300562171c0ba00f.png",
+    "index.html": "/paengxyz-web/index.html",
+    "main.2c188b78.css.map": "/paengxyz-web/static/css/main.2c188b78.css.map",
+    "main.31295b5f.js.map": "/paengxyz-web/static/js/main.31295b5f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/paengxyz-web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c188b78.css",
+    "static/js/main.31295b5f.js"
+  ]
+}
