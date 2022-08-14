@@ -6,9 +6,7 @@ const Season6 = () => {
     return (
         <div className="ret">
             <h1>시즌 6</h1>
-            <div className="image">
                 <img src = {Image} alt = "Season 6"/>
-            </div>
             사진 추가 예정
         </div>
     );

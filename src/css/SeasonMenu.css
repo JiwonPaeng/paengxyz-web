@@ -1,17 +1,10 @@
 .ret {
     text-align: center;
-}
-
-.image {
-    padding:0.7%;
-    margin:1.5%;
-    border-color:gray;
-    border-width: 0.5rem;
-    border-style:solid;
+    display : block;
 }
 
 img {
     height: auto;
-    max-width: 100%;
+    width: 100%;
     vertical-align: bottom;
 }

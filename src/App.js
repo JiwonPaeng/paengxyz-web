@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
         <nav className = "nav">
-            <a href = "/" className = "site-title">
+            <a href = "http://jiwonpaeng.github.io/paengxyz-web" className = "site-title">
                 paeng.xyz
             </a>
             <Link to = "/">Home</Link>

@@ -7,6 +7,16 @@
     position: relative;
 }
 
+.image {
+    margin:1.5%;
+    padding:0.7%;
+    border-color:gray;
+    border-width: 0.5rem;
+    border-style:solid;
+    max-width: 100%;
+    max-height: auto;
+}
+
 img {
     border : solid;
     border-width : 1.5%;
