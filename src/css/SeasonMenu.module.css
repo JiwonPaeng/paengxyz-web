@@ -1,0 +1,10 @@
+.ret {
+    text-align: center;
+    display : block;
+}
+
+.serverimg {
+    height: auto;
+    width: 100%;
+    vertical-align: bottom;
+}
